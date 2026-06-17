@@ -1,0 +1,7 @@
+interface:
+  display_name: "Football Match Comic"
+  short_description: "Turn real football events into fact-checked manga slide comics."
+  default_prompt: "Use $football-match-comic to turn this football match or tournament event into a fact-checked black-and-white Japanese football manga script, page plan, captions, and image prompts."
+
+policy:
+  allow_implicit_invocation: true
